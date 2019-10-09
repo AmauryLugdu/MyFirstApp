@@ -21,11 +21,12 @@ export class UserProfileComponent implements OnInit {
     photo : 'https://randomuser.me/api/portraits/lego/2.jpg'
     
   };
+  showAge: boolean = true;
   
   constructor() { }
 
   
 
-  showAge: boolean = true;
+ 
 
 };
